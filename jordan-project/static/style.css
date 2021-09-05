@@ -1,0 +1,43 @@
+h1 {
+  color: #000000;
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h2 {
+  text-align: center;
+  -webkit-text-stroke: 0.25px #fff;
+  font-size: 35px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h3 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #fff;
+}
+body {
+  background-color: #CE1141;
+}
+span {
+  color: gold;
+  -webkit-text-stroke: 0.25px #000000;
+
+}
+a {
+  text-decoration-color: gold;
+}
+li {
+  list-style-type: none;
+}
+.container {
+  text-align: center;
+}
+.section-1 {
+  background-color: #fff;
+}
+.red {
+  color: #CE1141;
+}
